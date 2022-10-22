@@ -1,0 +1,44 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ros_Jaguar Survey Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="header">
+    <h1 id="title" class="text-center">Ros_Jaguar Survey Form</h1>
+    <p id="description" class="description text-center">Thank you for taking the time to help us improve the platform</p> 
+    </header>
+    <form id="survey-form">
+      <label id="name-label" for="name">Name</label>
+      <input id="name" type="text" class="form-control" name="Name" placeholder="Enter your name" required="">
+         <label id="email-label" for="email">email</label>
+        <input id="email" type="email" class="form-control" name="email" placeholder="Enter your email" required="">
+             <label id="number-label" for="number">number</label>
+        <input id="number" type="number" class="form-control" name="number" placeholder="Enter your number" max="0" min="0">
+      <select id="dropdown" option>
+         <option value=""></option>
+        <option value=""></option>
+     <input id="name" type="radio" value="0" name="0">
+      <input id="name" type="radio" value="0" name="0">
+   <input type="checkbox" value="0">
+        <input type="checkbox" value="0">
+        <textarea name="" id="" cols="30" rows="10"></textarea>
+        <button id="submit" type="submit" class="survey-form">Submit</button>
+    </form>
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+
