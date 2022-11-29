@@ -1,0 +1,31 @@
+body {
+  background-color: #3e3edd;
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+header {
+  font-family: 'Space Mono', monospace;
+  color: #fff;
+  text-align: center;
+  width: 600px;
+  margin: 0 auto 0 auto;
+}
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 1.4;
+}
+p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  line-height: 1.4;
+}
+form {
+  background-color: #1b1b32;
+  width: 720px;
+  height: 1420px;
+  margin: 0 auto 0 auto;
+}
